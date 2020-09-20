@@ -3,7 +3,7 @@
 # MarkerCapsule: Explainable Single Cell Typing using Capsule Networks
 
 
-
+[Integrating Multiple Single-Cell RNA-seq Datasets]
 
 [sample run of MarkerCapsule in CITE-Seq data]
 
